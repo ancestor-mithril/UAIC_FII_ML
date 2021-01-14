@@ -1,0 +1,7 @@
+**/*.gz
+**/.idea
+**/__pycache__
+0.administrativia.pdf
+**/*.SLIDES.*
+**/[0-9][0-9].*
+**/ex-book.*
