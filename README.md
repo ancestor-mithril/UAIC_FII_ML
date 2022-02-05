@@ -1,5 +1,6 @@
 # UAIC_FII_ML
-UAIC_FII_ML_LABS
+ * Work done during the Machine Learning course at UAIC FII
+ * bachelor degree, 3rd year, 1st semester
 
 ***
 
@@ -7,6 +8,6 @@ UAIC_FII_ML_LABS
 
 ***
 
-- [Implementarea algoritmului optional pentru tema 2](https://github.com/ancestor-mithril/UAIC_FII_ML/tree/master/Lab/tema_2/script_p_34)
-- [Varianta de implementare a algoritmului ID3](https://github.com/ancestor-mithril/UAIC_FII_ML/tree/master/Lab/tema_3/script_p_53)
-- [Implementare a algoritmului EM](https://github.com/ancestor-mithril/UAIC_FII_ML/tree/master/Lab/tema_11/script_p_52_824)
+- [Calculation of entropy and information gained](https://github.com/ancestor-mithril/UAIC_FII_ML/tree/master/Lab/tema_2/script_p_34)
+- [ID3](https://github.com/ancestor-mithril/UAIC_FII_ML/tree/master/Lab/tema_3/script_p_53)
+- [EM](https://github.com/ancestor-mithril/UAIC_FII_ML/tree/master/Lab/tema_11/script_p_52_824)
